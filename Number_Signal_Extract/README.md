@@ -2,6 +2,6 @@
 
 This program runs on MATLAB GUI. No installation required
 
-## Function
+#### Function
 - Extract numbers from dial sound
 - Live extraction from your speaker input
