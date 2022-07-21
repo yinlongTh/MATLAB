@@ -1,7 +1,8 @@
-# Engineering Python
+## Cooling Atomic Beam Source 
 
-Welcome to Engineering Python. This is a Python programming course for engineers.
+This code simulates the source of cold atomic beam (Rubidium), No other installing required.
 
-This GitHub repository hosts the Jupyter Notebooks and Python source code for the open course on YouTube (http://youtube.com/yongtwang).
+#### Function
+- Simulate the source of cold atomic beam
+- Allow us to optimize the design of the source by using probability to predict the results in the real world (monte carlo method)
 
-A tutorial on how to use these course materials is in this YouTube video: [02C Course Materials and Jupyter Notebook](https://youtu.be/W0rf--MI2m4).
