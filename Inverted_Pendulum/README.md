@@ -1,7 +1,7 @@
-# Engineering Python
+## Invered Pendulum
 
-Welcome to Engineering Python. This is a Python programming course for engineers.
+This program required MATLAB and Simulink simulation module.
 
-This GitHub repository hosts the Jupyter Notebooks and Python source code for the open course on YouTube (http://youtube.com/yongtwang).
-
-A tutorial on how to use these course materials is in this YouTube video: [02C Course Materials and Jupyter Notebook](https://youtu.be/W0rf--MI2m4).
+#### Funtion
+- Simulate the motion or an inverted pendulum under external disturb signals
+- Analyst the motion 
